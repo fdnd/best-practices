@@ -1,2 +1,2 @@
 # best-practices
-Best practices for Frontend Design &amp; Development. Te design. To build. Do read. 
+Best practices for Frontend Design &amp; Development. To design. To build. Do read. 
